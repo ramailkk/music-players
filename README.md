@@ -21,10 +21,11 @@ Before you begin, ensure you have the following installed and configured:
 *   **[MPV](https://mpv.io/)**: A powerful, free, and open-source media player.
 *   **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**: A feature-rich command-line tool for downloading videos and audio from YouTube and other sites.
 *   **PowerShell 5.1+**: Comes pre-installed with modern versions of Windows.
+*   **Linux Terminals**: Comes pre-installed in any Linux distro.
 
 ---
 
-## ⚙️ Setup Instructions
+## ⚙️ Setup Instructions For Windows
 
 ### 1. Install MPV
 
